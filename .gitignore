@@ -1,0 +1,20 @@
+# Mac .DS_Store files
+.DS_Store
+
+# vscode files
+.vscode/
+
+# terraform
+*credential.json
+**/.terraform/*
+.terraform.lock.*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
