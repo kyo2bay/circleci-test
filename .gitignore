@@ -4,17 +4,5 @@
 # vscode files
 .vscode/
 
-# terraform
+# secret key file
 *credential.json
-**/.terraform/*
-.terraform.lock.*
-*.tfstate
-*.tfstate.*
-crash.log
-*.tfvars
-override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json
-.terraformrc
-terraform.rc

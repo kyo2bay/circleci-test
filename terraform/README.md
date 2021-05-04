@@ -7,7 +7,7 @@ terraform init
 # set environment variable
 
 ```sh
-export GOOGLE_APPLICATION_CREDENTIALS=kyo2bay-credential.json
+export GOOGLE_APPLICATION_CREDENTIALS=terraform-credential.json
 ```
 
 # deploy

@@ -1,5 +1,4 @@
 # terraform
-*credential.json
 **/.terraform/*
 .terraform.lock.*
 *.tfstate
